@@ -1,1 +1,1 @@
-include ':app','ZBLibrary'
+include ':app', ':commonlibrary', ':module_main','ZBLibrary'
