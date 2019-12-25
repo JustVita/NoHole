@@ -14,8 +14,6 @@
 
 #### 浙江
 
-* [宁波](1)
+* [宁波](./city/ZheJiang/Ninbo/Ningbo.md)
 
-
-[1]:https://github.com/JustVita/NoHole/blob/master/city/ZheJiang/Ninbo/Ningbo.md
 
