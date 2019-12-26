@@ -20,7 +20,7 @@
 
 * [成都](./city/Sichuan/Chengdu/Chengdu.md)  
 
-#### [上海](./city/Shanghai/Shanghai/Shanghai.md)
+#### [上海](./city/Shanghai/Shanghai.md)
 
 #### 江西
 
