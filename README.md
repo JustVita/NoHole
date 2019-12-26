@@ -24,7 +24,7 @@
 
 #### 江西
 
-* [南昌](./city/Jiangxi/Nanchang/Nanchang.md)
+* [南昌](./city/Jiangxi/Nanchang/nanchang.md)
 
 
 
