@@ -14,6 +14,17 @@
 
 #### 浙江
 
-* [宁波](./city/ZheJiang/Ninbo/Ningbo.md)
+* [宁波](./city/ZheJiang/Ninbo/Ningbo.md)  
+
+#### 四川
+
+* [成都](./city/Sichuan/Chengdu/Chengdu.md)  
+
+#### [上海](./city/Shanghai/Shanghai/Shanghai.md)
+
+#### 江西
+
+* [南昌](./city/Jiangxi/Nanchang/Nanchang.md)
+
 
 
